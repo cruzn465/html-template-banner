@@ -5,6 +5,8 @@
 
 ###USING THE TEMPLATE:
 
+	⁃ Not sure why but git isn't seeing the img folder so before using gulp, simply add a folder named "img" inside of assets/(size of banner)/.cache
+
 	⁃ The entire delieverable banner is contained inside of the 'src' folder, utilities are not required.
 	⁃ There are three subdirectories in src, one for the js (com), one for the css, and another for the images (img).
 	⁃ The only library this template pulls from is the Greensock tween engine, everything else is native js.
